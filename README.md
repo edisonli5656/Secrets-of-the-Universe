@@ -2,7 +2,13 @@
 
 An interactive astronomy guide made in Scratch by Edison in 3rd grade, now with a quiz and a Chinese / English switch.
 
-**Play it here:** https://edisonli5656.github.io/Secrets-of-the-Universe/
+### [▶ Open it now in your browser](https://edisonli5656.github.io/Secrets-of-the-Universe/)
+Works on computers, phones and tablets. Nothing to download.
+
+<p>
+  <img src="screenshots/title.jpg" width="420" alt="Secrets of the Universe title screen">
+  <img src="screenshots/menu.jpg" width="420" alt="Secrets of the Universe menu">
+</p>
 
 ## What's inside
 - **01 Birth of the Universe** – the Big Bang and a clickable timeline of 12 periods, from the Planck epoch to the formation of the Solar System
